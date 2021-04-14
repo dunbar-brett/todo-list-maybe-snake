@@ -1,0 +1,11 @@
+.header {
+  background-color: slateblue;
+  flex-direction: row;
+  min-height: 6vh;
+}
+
+.header-text {
+  color: white;
+  margin-top: 0;
+  text-align: center;
+}
