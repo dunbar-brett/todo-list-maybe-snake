@@ -9,6 +9,8 @@ export default function TodoList() {
     <>
       <p>This will have todo list entries</p>
       <TodoListItem></TodoListItem>
+      <TodoListItem></TodoListItem>
+      <TodoListItem></TodoListItem>
       <TodoListEntry></TodoListEntry>
     </>
   )

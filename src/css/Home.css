@@ -1,4 +1,8 @@
 .main {
-  margin: auto;
+  background-color: lightgrey;
+  border: 0.3rem solid grey;
+  border-radius: 5px;
+  margin: 2rem auto;
+  padding: 1rem;
   width: 50%;
 }

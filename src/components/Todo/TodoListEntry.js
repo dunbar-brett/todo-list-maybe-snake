@@ -2,6 +2,10 @@ import React from 'react';
 
 export default function TodoListEntry() {
   return (
-    <p>this will be an entry form for todo list items</p>
+    <form className=''>
+      <label htmlFor='todo-entry'>This is the todo text</label>
+      <input type='text' id='todo-entry'></input>
+      <button>Submit</button>
+    </form>
   )
 }
